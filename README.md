@@ -23,7 +23,7 @@ update @ 2021/11/08
 
 4. open terminal , press ? , will display description as below 
 
-![image](https://github.com/released/M031BSP_SPI_PDMA_FLASH/blob/mian/KEY_questionmark.jpg)
+![image](https://github.com/released/M031BSP_SPI_PDMA_FLASH/blob/main/KEY_questionmark.jpg)
 	
 5. key 1 ~ 5 , separate function with 1 key
 
